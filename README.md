@@ -22,6 +22,7 @@ Este informe presenta una comparación experimental de los tiempos de carga y b�
 - **Tiempo total de carga de datos:** 245 ms
 - **Tiempo de búsqueda para la llave 0.11:** 4 microsegundos
 
+![Imagen de WhatsApp 2024-11-05 a las 20 25 38_cf432d2a](https://github.com/user-attachments/assets/855f8a9b-4b92-4fe4-a905-4436e1bbfec5)
 
 ## Análisis de Resultados
 
